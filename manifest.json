@@ -25,7 +25,12 @@
                 "*://*.amazon.ca/gp/*/order-history?*",
                 "*://amazon.ca/gp/*/order-history?*",
                 "*://*.amazon.ca/your-orders/orders?*",
-                "*://amazon.ca/your-orders/orders?*"
+                "*://amazon.ca/your-orders/orders?*",
+                
+                "*://*.amazon.de/gp/*/order-history?*",
+                "*://amazon.de/gp/*/order-history?*",
+                "*://*.amazon.de/your-orders/orders?*",
+                "*://amazon.de/your-orders/orders?*"
             ],
             "js": ["orders.js"]
         }
